@@ -56,10 +56,11 @@ h1, h2, h3 {
     border-right: 1px solid lightgray;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
     main {
         display: block;
     }
+    
     #mainLeft {
         border-right: none;
     }
